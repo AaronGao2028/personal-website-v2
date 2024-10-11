@@ -3,7 +3,7 @@ import profile from "../images/profile_pic.png";
 import { Cursor, useTypewriter } from "react-simple-typewriter";
 
 const openResume = () => {
-  window.open("https://drive.google.com/file/d/1zSpnWvVyIKORhsZtWH0kyBEIkz8k5wKI/view?usp=sharing");    
+  window.open("https://drive.google.com/file/d/1p5KOMJQlA8ZievEhK353EiFy_TJI69dr/view?usp=sharing");    
 }
 
 const openLinkedIn = () => {
